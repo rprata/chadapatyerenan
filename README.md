@@ -1,5 +1,7 @@
 # Episódio I: Chá da Paty & Renan
 
+![Alt text](site/imgs/capa.jpg)
+
 Queridíssimos,
 decidimos embarcar em uma nova aventura: morar juntos!
 
